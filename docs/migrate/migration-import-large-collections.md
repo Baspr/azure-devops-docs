@@ -105,7 +105,7 @@ Next, grant access to the Regional Identity Service. You need to grant an except
 | Regional Identity Service - Australia East | 13.75.145.145, 40.82.217.103, 20.188.213.113, 104.210.88.194, 40.81.62.114, 20.37.194.0/24 |
 | Regional Identity Service - Brazil South | 20.40.114.3, 191.235.90.183, 191.232.38.181, 191.233.25.175, 191.235.226.0/24 |
 | Regional Identity Service - India South | 104.211.227.29, 40.81.75.130, 52.172.54.122, 52.172.49.252, 20.41.194.0/24 |
-| Regional Identity Service - Canada Central | 52.237.19.6, 40.82.190.38, 52.228.82.0/243 |
+| Regional Identity Service - Canada Central | 52.237.19.6, 40.82.190.38, 52.228.82.0/24 |
 | Regional Identity Service - Asia Pacific (Hong Kong) | 52.175.28.40, 40.81.25.218, 13.94.26.58, 20.189.107.0/24
 | Regional Identity Service - UK South | 40.81.159.67, 51.104.26.0/24 |
 
